@@ -63,4 +63,12 @@ ID	InfectionDate	Status	Recovery/DeathDate	District	Infector
 
 
 ## Examples
+#### Main Menu]
+![Main Menu](https://github.com/lauchunhin/COVID-19-Tracing-Database/blob/main/menu_0.png)
+
+#### Patient Detailed Information
+![Patient Detailed Information](https://github.com/lauchunhin/COVID-19-Tracing-Database/blob/main/funct_3.png)
+
+#### Infection Chain Tree Graph of data in `c.txt`
+![Infection Chain Tree Graph](https://github.com/lauchunhin/COVID-19-Tracing-Database/blob/main/function_42.png)
 
